@@ -44,8 +44,8 @@ Create a Calculator class with a non-static add() method to sum two numbers and 
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: SURIYA PRAKASH S
-RegisterNumber: 212223100043
+Developed by: Harieenesh Sha
+RegisterNumber: 212224040099
 */
 ```
 
