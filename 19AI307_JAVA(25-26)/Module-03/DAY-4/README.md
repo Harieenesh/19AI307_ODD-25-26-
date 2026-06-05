@@ -40,9 +40,9 @@ To design a unified controller system using Java Interfaces where different gami
 ## PROGRAM:
  ```
 /*
-Program to implement a Interface using Java
-Developed by: V.B.LAKSHA
-RegisterNumber: 212224220051
+Program to implement a InnerClass using Java
+Developed by: HARIEENESH SHA
+RegisterNumber: 212224040099
 */
 ```
 
