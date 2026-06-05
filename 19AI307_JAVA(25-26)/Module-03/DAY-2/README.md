@@ -26,9 +26,9 @@ To create a Java program demonstrating method overriding by defining a base clas
 ## PROGRAM:
  ```
 /*
-Program to implement a Polymorphism using Java
-Developed by: V.B.LAKSHA
-RegisterNumber: 212224220051
+Program to implement a InnerClass using Java
+Developed by: HARIEENESH SHA
+RegisterNumber: 212224040099
 */
 ```
 
