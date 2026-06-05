@@ -41,9 +41,9 @@ To create an abstract class Decoder with an abstract method decodeMessage(), and
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstraction using Java
-Developed by: V.B.LAKSHA
-RegisterNumber: 212224220051
+Program to implement a InnerClass using Java
+Developed by: HARIEENESH SHA
+RegisterNumber: 212224040099
 */
 ```
 
